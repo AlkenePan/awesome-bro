@@ -41,13 +41,9 @@
 
 [grigorescu/Brownian](https://github.com/grigorescu/Brownian)
 
-[g0tmi1k/mpc](https://github.com/g0tmi1k/mpc)
-
 [initconf/scan-NG](https://github.com/initconf/scan-NG)
 
 [bro/package-manager](https://github.com/bro/package-manager)
-
-[bro/bro](https://github.com/bro/bro)
 
 [punkrokk/bro-lessons](https://github.com/punkrokk/bro-lessons)
 
