@@ -1,6 +1,7 @@
 # awesome-bro
 
 ## 
+[iBigQ/osquery-plugin-bro](https://github.com/iBigQ/osquery-plugin-bro)
 [CrySyS/bro-step7-plugin](https://github.com/CrySyS/bro-step7-plugin)
 
 [ncsa/bro-cluster-in-a-box-setup](https://github.com/ncsa/bro-cluster-in-a-box-setup)
