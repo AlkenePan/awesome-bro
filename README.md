@@ -1,6 +1,9 @@
 # awesome-bro
 
 ## 
+
+[J-Gras/bro-fuzzy-hashing](https://github.com/J-Gras/bro-fuzzy-hashing)
+
 [iBigQ/osquery-plugin-bro](https://github.com/iBigQ/osquery-plugin-bro)
 
 [CrySyS/bro-step7-plugin](https://github.com/CrySyS/bro-step7-plugin)
