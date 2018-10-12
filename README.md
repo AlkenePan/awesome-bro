@@ -2,6 +2,8 @@
 
 ## 
 
+[corelight/bro-long-connections](https://github.com/corelight/bro-long-connections)
+
 [J-Gras/bro-fuzzy-hashing](https://github.com/J-Gras/bro-fuzzy-hashing)
 
 [iBigQ/osquery-plugin-bro](https://github.com/iBigQ/osquery-plugin-bro)
