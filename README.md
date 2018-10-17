@@ -1,5 +1,7 @@
 # awesome-bro
 
+# WTF? Renaming the Bro Project? http://blog.bro.org/2018/10/renaming-bro-project_11.html 
+
 ## 
 
 [corelight/bro-long-connections](https://github.com/corelight/bro-long-connections)
