@@ -4,6 +4,8 @@
 
 ## 
 
+[DigiAngel/bro-protosigs](https://github.com/DigiAngel/bro-protosigs)
+
 [corelight/bro-long-connections](https://github.com/corelight/bro-long-connections)
 
 [J-Gras/bro-fuzzy-hashing](https://github.com/J-Gras/bro-fuzzy-hashing)
