@@ -4,6 +4,8 @@
 
 ## 
 
+[hosom/bro-cron](https://github.com/hosom/bro-cron)
+
 [DigiAngel/bro-protosigs](https://github.com/DigiAngel/bro-protosigs)
 
 [corelight/bro-long-connections](https://github.com/corelight/bro-long-connections)
