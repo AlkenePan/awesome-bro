@@ -3,6 +3,7 @@
 # WTF? Renaming the Bro Project? http://blog.bro.org/2018/10/renaming-bro-project_11.html 
 
 ## 
+[hosom/bro-ja3](https://github.com/hosom/bro-ja3)
 
 [hosom/bro-cron](https://github.com/hosom/bro-cron)
 
