@@ -4,6 +4,8 @@
 # Zeek?
 
 ##
+[J-Gras/bro-lognorm](https://github.com/J-Gras/bro-lognorm)
+
 [michalpurzynski/bro-gramming](https://github.com/michalpurzynski/bro-gramming)
 
 [hosom/bro-ja3](https://github.com/hosom/bro-ja3)
