@@ -4,6 +4,8 @@
 # Zeek?
 
 ##
+[J-Gras/intel-expire](https://github.com/J-Gras/intel-expire)
+
 [J-Gras/bro-lognorm](https://github.com/J-Gras/bro-lognorm)
 
 [michalpurzynski/bro-gramming](https://github.com/michalpurzynski/bro-gramming)
