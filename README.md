@@ -77,3 +77,5 @@
 [phirelight/bro-scripts](https://github.com/phirelight/bro-scripts)
 
 [rsabir/bro-dsniff](https://github.com/rsabir/bro-dsniff)
+
+[antipatico/zeek-dronebl-dnsbl](https://github.com/antipatico/zeek-dronebl-dnsbl)
