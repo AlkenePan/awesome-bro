@@ -4,6 +4,10 @@
 # Zeek?
 
 ##
+[tenzir/zeek-vast](https://github.com/tenzir/zeek-vast)
+
+[emojifier/emojifier](https://github.com/emojifier/emojifier)
+
 [J-Gras/intel-expire](https://github.com/J-Gras/intel-expire)
 
 [J-Gras/bro-lognorm](https://github.com/J-Gras/bro-lognorm)
