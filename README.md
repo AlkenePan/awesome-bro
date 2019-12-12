@@ -4,6 +4,8 @@
 # Zeek?
 
 ##
+[zeek/osquery-extension](https://github.com/zeek/osquery-extension)
+
 [tenzir/zeek-vast](https://github.com/tenzir/zeek-vast)
 
 [emojifier/emojifier](https://github.com/emojifier/emojifier)
