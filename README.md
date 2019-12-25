@@ -4,6 +4,9 @@
 # Zeek?
 
 ##
+
+@GTrunSec [Zeek resources collect](https://blog.gtrun.org/custom/nsmorg.html#orgedac154)
+
 [zeek/osquery-extension](https://github.com/zeek/osquery-extension)
 
 [tenzir/zeek-vast](https://github.com/tenzir/zeek-vast)
