@@ -5,6 +5,8 @@
 
 ##
 
+[zeek/zeek-agent](https://github.com/zeek/zeek-agent)
+
 [salesforce/GQUIC_Protocol_Analyzer](https://github.com/salesforce/GQUIC_Protocol_Analyzer)
 
 [@GTrunSec](https://github.com/GTrunSec) : [Zeek resources collect](https://blog.gtrun.org/custom/nsmorg.html#orgedac154)
