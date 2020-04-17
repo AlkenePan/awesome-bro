@@ -5,6 +5,8 @@
 
 ##
 
+[cancyber/cancyber_zeek](https://github.com/cancyber/cancyber_zeek)
+
 [zeek/zeek-agent](https://github.com/zeek/zeek-agent)
 
 [salesforce/GQUIC_Protocol_Analyzer](https://github.com/salesforce/GQUIC_Protocol_Analyzer)
